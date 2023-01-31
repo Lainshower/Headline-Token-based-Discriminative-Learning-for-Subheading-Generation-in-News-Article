@@ -1,4 +1,4 @@
-# Headline-Token-based-Discriminative-Learning-for-Subheading-Generation-in-News-Article
+# Headline Token based Discriminative Learning for Subheading Generation in News Article
 
 This is the pytorch implementation of **Headline Token based Discriminative Learning for Subheading Generation in News Article**
 
