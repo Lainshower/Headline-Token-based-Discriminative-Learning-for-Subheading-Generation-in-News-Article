@@ -10,7 +10,7 @@ This is the pytorch implementation of **Headline Token based Discriminative Lear
 
 The news subheading summarizes an article's contents in several sentences to support the headline limited to solely conveying the main contents. So, it is necessary to generate compelling news subheadings in consideration of the structural characteristics of the news. In this paper, we propose a subheading generation model using topical headline information. We introduce a discriminative learning method that utilizes the prediction result of masked headline tokens. Experiments show that the proposed model is effective and outperforms the comparative models on three news datasets written in two languages. We also show that our model performs robustly on a small dataset and various masking ratios. Qualitative analysis and human evaluations also shows that the overall quality of generated subheadings improved over the comparative models.
 
-Our code is based on the code of [DIFFCSE](https://github.com/voidism/DiffCSE). Please refer to their repository for more detailed information/
+Our code is based on the code of [DIFFCSE](https://github.com/voidism/DiffCSE). Please refer to their repository for more detailed information.
 
 ## Pre-requisite
 
