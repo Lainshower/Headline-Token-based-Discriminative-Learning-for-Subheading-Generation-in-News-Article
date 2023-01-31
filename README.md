@@ -31,7 +31,7 @@ Our code is based on the code of [DIFFCSE](https://github.com/voidism/DiffCSE). 
 
 ## DATASET
 
-Please request through ~
+Please request through https://yonhap-news-dataset.s3.ap-northeast-2.amazonaws.com/yonhapnews/
 
 ## IMPLEMENTATION
 
