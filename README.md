@@ -31,7 +31,10 @@ Our code is based on the code of [DIFFCSE](https://github.com/voidism/DiffCSE). 
 
 ## DATASET
 
-Please request through ...
+You can download the YonhapNews Data from the following link
+> Train data: [train](https://yonhap-news-dataset.s3.ap-northeast-2.amazonaws.com/yonhapnews/train.csv)
+> Valid data: [valid](https://yonhap-news-dataset.s3.ap-northeast-2.amazonaws.com/yonhapnews/test.csv)
+> Test data: [test](https://yonhap-news-dataset.s3.ap-northeast-2.amazonaws.com/yonhapnews/infer.csv)
 
 ## IMPLEMENTATION
 
